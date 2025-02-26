@@ -9,8 +9,8 @@ Front-End developer for 2 years.
 
 * 🌍  I'm based in Pennsylvania, USA
 * 🖥️  See my portfolio at [MyPortfolio](https://mbwebdeveloper.com/)
-* 🧠  I'm learning NextJS
-* 🤝  I'm open to collaborating on Front-End website projects
+* 🧠  I'm learning Astro
+* 🎨 Expressing my creativity by learning, building, and having fun!
 
 ### Skills
 
