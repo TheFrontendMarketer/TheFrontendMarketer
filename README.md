@@ -8,7 +8,7 @@ Digital Marketer for 12 years.
 Front-End developer for 2 years.
 
 * 🌍  I'm based in Pennsylvania, USA
-* 🖥️  Check out my website at [MyPortfolio](https://thefrontendmarketer.com/)
+* 🖥️  Check out my [website](https://thefrontendmarketer.com/)
 * 🧠  I'm learning Astro
 * 🎨  Expressing my creativity by learning, building, and having fun!
 
