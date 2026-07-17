@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Marketer | Front-End Developer
 ----------------------------------------
 
-Digital Marketer for 12 years.
-Front-End development for 3 years.
-Self-taught coding since 2019. 
+Digital Marketer for 12 years. <br>
+Front-End development for 3 years. <br>
+Self-taught coding since 2019. <br>
 
 * 🌍  I'm based in Pennsylvania, USA
 * 🖥️  Check out my [website](https://thefrontendmarketer.com/)
