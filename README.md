@@ -6,6 +6,7 @@ Digital Marketer | Front-End Developer
 
 Digital Marketer for 12 years.
 Front-End development for 3 years.
+Self-taught coding since 2019. 
 
 * 🌍  I'm based in Pennsylvania, USA
 * 🖥️  Check out my [website](https://thefrontendmarketer.com/)
